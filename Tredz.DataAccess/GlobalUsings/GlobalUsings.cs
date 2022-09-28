@@ -1,0 +1,16 @@
+﻿global using Azure;
+global using Azure.Storage.Blobs;
+global using Azure.Storage.Blobs.Models;
+global using Dapper;
+global using Microsoft.Azure.Cosmos;
+global using System.ComponentModel.DataAnnotations;
+global using System.Data;
+global using System.Data.SqlClient;
+global using Tredz.DataAccess.Blob.Constants;
+global using Tredz.DataAccess.Blob.Enums;
+global using Tredz.DataAccess.Blob.Interfaces;
+global using Tredz.DataAccess.Blob.Models;
+global using Tredz.DataAccess.Cosmos.Interfaces;
+global using Tredz.DataAccess.Cosmos.Models;
+global using Tredz.DataAccess.Sql.Interfaces;
+global using Tredz.DataAccess.Sql.Models;

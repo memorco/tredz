@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using Tredz.BikeApi.DependencyInjection;
+global using Tredz.Data.Model;
+global using Tredz.DataAccess.Blob.Interfaces;
+global using Tredz.DataAccess.Blob.Services;
+global using Tredz.DataAccess.Sql.Interfaces;
+global using Tredz.DataAccess.Sql.Repositories;
+global using Tredz.MicroService;
+global using Tredz.MicroService.Interfaces;
+global using Tredz.BikeApi.DTOs;
